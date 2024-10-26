@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.10)  26 OCT 2024 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.10)  26 OCT 2024 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1901,22 +1901,17 @@ File: ts1txr.fd 2000/12/15 v3.1
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texm
 f-dist/fonts/enc/dvips/base/8r.enc}
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-(./fig/fig.tex) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 174--190
+] (./fig/fig.tex) [2]
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--190
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-[3] [4] (./main.aux)
+(./tables/table.tex) [3] [4] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1925,22 +1920,22 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 53069 strings out of 474222
- 1256265 string characters out of 5748732
+ 53081 strings out of 474222
+ 1256501 string characters out of 5748732
  1945975 words of memory out of 5000000
- 74419 multiletter control sequences out of 15000+600000
+ 74427 multiletter control sequences out of 15000+600000
  624625 words of font info for 171 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,11n,109p,1194b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,13n,109p,1194b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on main.pdf (4 pages, 52555 bytes).
+Output written on main.pdf (4 pages, 52645 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 90 named destinations out of 1000 (max. 500000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 91 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

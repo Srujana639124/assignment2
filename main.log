@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.10)  25 OCT 2024 20:45
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.10)  26 OCT 2024 13:32
+>>>>>>> 89fed2e (main.tex)
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1676,13 +1680,21 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 4
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
+<<<<<<< HEAD
 )
 No file main.aux.
+=======
+) (./main.aux)
+>>>>>>> 89fed2e (main.tex)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 40.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 40.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 89fed2e (main.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
@@ -1858,14 +1870,23 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 40.
+<<<<<<< HEAD
+=======
+ (./main.out)
+(./main.out)
+>>>>>>> 89fed2e (main.tex)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 \c@lstlisting=\count399
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 61
 .
+<<<<<<< HEAD
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+=======
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+>>>>>>> 89fed2e (main.tex)
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 6
@@ -1905,13 +1926,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
+<<<<<<< HEAD
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 191--207
+=======
+(./fig/fig.tex) [2]
+Underfull \hbox (badness 10000) in paragraph at lines 174--190
+>>>>>>> 89fed2e (main.tex)
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 191--207
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 174--190
+>>>>>>> 89fed2e (main.tex)
 
  []
 
@@ -1920,6 +1950,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--207
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+<<<<<<< HEAD
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -1938,6 +1969,19 @@ Here is how much of TeX's memory you used:
  624625 words of font info for 171 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,11n,109p,1194b,1114s stack positions out of 10000i,1000n,20000p,200000b,200000s
+=======
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 53069 strings out of 474222
+ 1256265 string characters out of 5748732
+ 1945975 words of memory out of 5000000
+ 74419 multiletter control sequences out of 15000+600000
+ 624625 words of font info for 171 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 109i,11n,109p,1194b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
+>>>>>>> 89fed2e (main.tex)
 </usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fo
